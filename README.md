@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tinycreature
-- 👀 I’m interested in robotic projects,web development and application development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in robotic projects,web development,application development and data science
+- 🌱 I’m currently learning web development,data science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
